@@ -1,0 +1,10 @@
+// db 삭제
+spring:
+  datasource:    
+      driver-class-name: com.mysql.cj.jdbc.Driver
+    
+    
+    
+  jpa:
+    show-sql: true
+    generate-ddl: true     
